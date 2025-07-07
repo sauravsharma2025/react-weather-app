@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "rank": 1,
+    "image": "https://source.unsplash.com/600x400/?delhi,city"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "rank": 2,
+    "image": "https://source.unsplash.com/600x400/?mumbai,city"
+  },
+  {
+    "id": "bangalore",
+    "name": "Bangalore",
+    "rank": 3,
+    "image": "https://source.unsplash.com/600x400/?bangalore,city"
+  }
+]
